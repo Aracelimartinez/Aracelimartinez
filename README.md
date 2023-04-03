@@ -1,4 +1,4 @@
-### About me:
+
 > I'm Araceli! I'm a Fullstack developer eager to learn more every day! Extremely committed, creative, and a problem solver, I love when a new challenging task is given to me.
 > I can communicate effectively, think visually and analytically, and have excellent attention to detail thanks to my previous experience as a graduated architect.
 
@@ -10,7 +10,7 @@
 ##
 
 ### Development Skills:
-![image](https://img.shields.io/badge/HTML5-c0c0aa?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-#753a88?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-b1c5b2?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-a9c7b6?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-99cbbe?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -21,5 +21,5 @@
 ![image](https://img.shields.io/badge/Rails-3ee6ee?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![image](https://img.shields.io/badge/Webpack-33e9f3?style=for-the-badge&logo=Webpack&logoColor=white)
 ![image](https://img.shields.io/badge/Yarn-1cefff?style=for-the-badge&logo=yarn&logoColor=white)
-![image](https://img.shields.io/badge/SQLite-1cefff?style=for-the-badge&logo=yarn&logoColor=white)
+![image](https://img.shields.io/badge/SQLite-1cefff?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-1cefff?style=for-the-badge&logo=figma&logoColor=white)
