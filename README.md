@@ -10,7 +10,7 @@
 ##
 
 ### Development Skills:
-![image](https://img.shields.io/badge/HTML5-#753a88?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-753a88?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-b1c5b2?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-a9c7b6?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-99cbbe?style=for-the-badge&logo=bootstrap&logoColor=white)
