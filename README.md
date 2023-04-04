@@ -1,4 +1,4 @@
-# ![araceli martinez header](https://raw.githubusercontent.com/Aracelimartinez/Aracelimartinez/main/images/main-banner.png)
+# ![araceli martinez header](https://raw.githubusercontent.com/Aracelimartinez/Aracelimartinez/main/images/GitHub_Cover.gif)
 
 > I'm Araceli! I'm a Fullstack developer eager to learn more every day! Extremely committed, creative, and a problem solver, I love when a new challenging task is given to me.
 > I can communicate effectively, think visually and analytically, and have excellent attention to detail thanks to my previous experience as a graduated architect.
